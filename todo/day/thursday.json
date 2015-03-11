@@ -1,8 +1,20 @@
 {
     "items": [
-        "Brush teeth",
-        "Go to the shops",
-        "Make dinner",
-        "Go to bed"
+        {
+            "desc": "Brush teeth",
+            "estimatedTime": "5 minutes"
+        },
+        {
+            "desc": "Go to the shops",
+            "estimatedTime": "20 minutes"
+        },
+        {
+            "desc": "Make dinner",
+            "estimatedTime": "30 minutes"
+        },
+        {
+            "desc": "Go to bed",
+            "estimatedTime": "8 hours"
+        }
     ]
 }
